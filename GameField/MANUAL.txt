@@ -1,0 +1,4 @@
+	Funcionalidades básicas de interação através de SDL (Simple DirectMedia Layer)
+
+	Clique em um campo para que ele mude de cor.
+	Na matriz há alguns campos vermelhos e brancos. As posições de cada cor são definidas aleatoriamente. 

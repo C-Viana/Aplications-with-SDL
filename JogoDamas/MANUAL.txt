@@ -1,0 +1,3 @@
+	NOTA: jogo não implementa todas as regras.
+
+	Para jogar, clique na peça que deseja mover e depois clique onde quer que ela vá. Se o movimento for válido, a peça será transferida. 
